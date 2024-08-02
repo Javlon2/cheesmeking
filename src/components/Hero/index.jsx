@@ -1,4 +1,4 @@
-
+import './style.css'
 const index = () => {
   return (
     <div className="flex justify-center flex-col ">
